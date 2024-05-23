@@ -4,7 +4,7 @@
       "id": 123,
       "name": "James Brown",
       "grades": ["12", "Preschool", "11"],
-      "created_at": "",
+      "created_at": "12-12-1999",
       "other_identifiers": {
         "LDAP": "1232",
         "Google": "wieuyewiryiSDFNjdhf"

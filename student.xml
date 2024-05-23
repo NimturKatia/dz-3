@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <id>123</id>
+        <name>James Brown</name>
+        <grades>11</grades>
+        <grades>12</grades>
+        <grades>Preschool</grades>
+        <created_at>12-12-1999</created_at>
+        <other_identifiers>
+            <LDAP>1232</LDAP>
+            <Google>wieuyewiryiSDFNjdhf</Google>
+        </other_identifiers>
+        <currently_enrolled>true</currently_enrolled>
+        <school_id>sch_1</school_id>
+        <phone_number>+23434343343</phone_number>
+        <phone_type>Home</phone_type>
+        <emergency_contact type="parent">
+            <name>Lisa Brown</name>
+            <phone>+945808594043</phone>
+        </emergency_contact>
+    </student>
+</students>
